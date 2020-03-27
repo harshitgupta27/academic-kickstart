@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include signal processing, computer vision and machine learning.
 
 interests:
 - Signal Processing
@@ -38,10 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:hargupta@iitk.ac.in".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:hargupta@iitk.ac.in'  # For a direct email link, use "mailto:example1@example2.com".
+- icon: linkedin
+  icon_pack: fab
+  link: https://in.linkedin.com/in/hgupta27
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,7 +64,8 @@ user_groups:
 - Visitors
 ---
 
-I am a junior undergraduate at IIT Kanpur, pursuing a bachelor's in Electrical Engineering and a minor in Machine Learning. My main areas of interest lie in computer vision and signal processing, and I have been working on problems in similar areas. 
+I am a junior undergraduate at IIT Kanpur, pursuing a bachelor's in Electrical Engineering and a minor in Machine Learning. My main areas of interest are computer vision and signal processing, and I have been working on problems in similar areas. 
 
-I have been working under the guidance of Dr. Rajesh Hegde, IIT Kanpur on problems related to localization and tracking of static and moving sources of sound. I have also worked with the Broadcast Audience Research Council (BARC) India, under the guidance of Dr. Sumit Chowdhury, on the task of TV audience measurement.
+I have been working under the guidance of Dr. Rajesh Hegde, IIT Kanpur on problems related to localization and tracking of static and moving sources of sound. I have also worked with the Broadcast Audience Research Council (BARC) India, under the guidance of Dr. Sumit Chowdhury, on the task of TV audience measurement using ML algorithms.
+
   
